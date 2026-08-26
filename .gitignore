@@ -1,0 +1,72 @@
+# Expo
+.expo/
+.expo-shared/
+dist/
+web-build/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# React Native
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+
+# Android
+android/app/build/
+android/app/release/
+android/.gradle/
+android/build/
+*.apk
+*.aab
+
+# iOS
+ios/Pods/
+ios/build/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+.history/
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Logs
+*.log
+logs/
+
+# Testing
+coverage/
+
+# Temporary files
+*.swp
+*.swo
+*~
+.tmp/
+
+# IDE
+.idea/
+*.iml
+
+# Misc
+.cache/
+*.bak
+.eslintcache
+
+# Package lock files (optionnel, commenter si vous voulez les inclure)
+# package-lock.json
+# yarn.lock
