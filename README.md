@@ -1,10 +1,14 @@
-# 🕌 Quran Memorizer + AI Tracker - Application Complète
+# 🕌 Quran Memorizer + AI Tracker
 
 > **Application mobile hybride React Native avec reconnaissance vocale IA pour la mémorisation du Saint Coran**
 
-[![Tests](https://img.shields.io/badge/tests-54%2F54%20passing-brightgreen)]()
-[![Version](https://img.shields.io/badge/version-1.0.0-blue)]()
-[![License](https://img.shields.io/badge/license-MIT-green)]()
+[![GitHub Release](https://img.shields.io/github/v/release/aymanelmerzouki/quran-memorizer-ai?include_prereleases&label=version)](https://github.com/aymanelmerzouki/quran-memorizer-ai/releases)
+[![Tests](https://img.shields.io/badge/tests-54%2F54%20passing-brightgreen)](./test-app.js)
+[![License](https://img.shields.io/github/license/aymanelmerzouki/quran-memorizer-ai)](./LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/aymanelmerzouki/quran-memorizer-ai?style=social)](https://github.com/aymanelmerzouki/quran-memorizer-ai/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/aymanelmerzouki/quran-memorizer-ai?style=social)](https://github.com/aymanelmerzouki/quran-memorizer-ai/network/members)
+
+**[📖 Quick Start](./QUICK_START.md) • [🔨 Build Guide](./BUILD_GUIDE.md) • [🤝 Contributing](./CONTRIBUTING.md) • [🔒 Security](./SECURITY.md)**
 
 ---
 
@@ -265,6 +269,23 @@ export const aiTheme = {
 - [ ] Compétitions en ligne
 - [ ] Badges et achievements
 - [ ] Mode AR (réalité augmentée)
+
+---
+
+## ⭐ Supportez le Projet
+
+Si cette application vous aide dans votre mémorisation du Coran :
+
+- ⭐ **Donnez une étoile** sur GitHub
+- 🔄 **Partagez** avec vos proches
+- 🐛 **Signalez** les bugs que vous trouvez
+- 💡 **Proposez** des améliorations
+- 🤝 **Contribuez** au code ([voir guide](./CONTRIBUTING.md))
+- 🤲 **Faites des dou'as** pour les contributeurs
+
+[![GitHub Stars](https://img.shields.io/github/stars/aymanelmerzouki/quran-memorizer-ai?style=for-the-badge&logo=github)](https://github.com/aymanelmerzouki/quran-memorizer-ai/stargazers)
+
+**JazakAllahu Khayran** pour votre soutien ! 🌟
 
 ---
 
