@@ -1,21 +1,21 @@
 {
   "expo": {
-    "name": "حافظ - AI Edition",
+    "name": "Quran Memorizer AI",
     "slug": "quran-memorizer-ai",
     "owner": "ymn02",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "quranmemorizerai",
     "userInterfaceStyle": "automatic",
-    "newArchEnabled": true,
+    "newArchEnabled": false,
     "ios": {
       "bundleIdentifier": "com.quranapp.memorizerai",
       "supportsTablet": true
     },
     "android": {
       "package": "com.quranapp.memorizerai",
-      "versionCode": 1,
+      "versionCode": 3,
       "adaptiveIcon": {
         "backgroundColor": "#050A07",
         "foregroundImage": "./assets/images/android-icon-foreground.png",
@@ -25,10 +25,13 @@
       "permissions": [
         "RECORD_AUDIO",
         "INTERNET",
-        "ACCESS_NETWORK_STATE"
+        "ACCESS_NETWORK_STATE",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
       ],
-      "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "edgeToEdgeEnabled": false,
+      "predictiveBackGestureEnabled": false,
+      "softwareKeyboardLayoutMode": "pan"
     },
     "web": {
       "output": "static",
